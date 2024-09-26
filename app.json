@@ -3,10 +3,10 @@
   "description": "whatsapp md bot build with nodejs created by Giddy Tennor",
   "repository": "https://github.com/Tennormodz/Jewel",
   "logo": "https://telegra.ph/file/241785e6e5679008777c9.jpg",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
+  "keywords": ["node.js", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
-      "url": "heroku/nodejs"
+      "url": "heroku/node.js"
     },
     {
       "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
